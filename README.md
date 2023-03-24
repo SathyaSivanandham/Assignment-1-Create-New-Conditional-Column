@@ -1,6 +1,5 @@
 # Create New Cond Col
 
-BACK TO ASSIGNMENT
 surcharge 
 
 if ship_mode = "Same Day" then 20% or 0.2
